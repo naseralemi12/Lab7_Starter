@@ -1,4 +1,4 @@
-# Lab 7 - Network & ServiceWorkers
+# Google Reciepes
 
 This project is a lab exercise that demonstrates the use of Service Workers and caching techniques to improve the performance and reliability of web applications. The project includes a recipe application that caches recipe data and images to improve performance and enable offline use.
 
